@@ -9,12 +9,12 @@ Simple script which ping Home Assistant instance and notify user when server goe
     pip3 install requests
 ```
 
-## Usage Example
+## Usage 
 
 ```bash
 export PUSH_TOKEN=Fnp9JD4ToroCpUl_:kiumxB8I8kOyKguty4XQ21UkNG70FtprFkixnb3xIUTyWxSj490f...
 export HASS_URL=https://hass.mykhailo.com/
-hass_checker
+./hass_checker
 ```
 
 ## How to Get Push Token

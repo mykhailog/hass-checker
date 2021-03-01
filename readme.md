@@ -1,4 +1,4 @@
-# Home Assistant Availabilty Checker
+# Home Assistant Availability Checker
 Simple script which ping Home Assistant instance and notify user when server goes down.
 
 <img src="https://user-images.githubusercontent.com/1454659/109507736-b59ca080-7aa7-11eb-96ea-55a257ed1586.png" width="400">
